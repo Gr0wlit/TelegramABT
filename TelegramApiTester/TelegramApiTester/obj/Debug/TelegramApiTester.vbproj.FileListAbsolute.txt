@@ -1,0 +1,21 @@
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\bin\Debug\TelegramApiTester.exe.config
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\bin\Debug\TelegramApiTester.exe
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\bin\Debug\TelegramApiTester.pdb
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\bin\Debug\TelegramApiTester.xml
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\obj\Debug\TelegramApiTester.MainForm.resources
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\obj\Debug\TelegramApiTester.Resources.resources
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\obj\Debug\TelegramApiTester.vbproj.GenerateResource.Cache
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\obj\Debug\TelegramApiTester.exe
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\obj\Debug\TelegramApiTester.xml
+C:\Users\Tia\AppData\Local\Temporary Projects\TelegramApiTester\obj\Debug\TelegramApiTester.pdb
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\bin\Debug\TelegramApiTester.exe.config
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Debug\TelegramApiTester.exe
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Debug\TelegramApiTester.xml
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Debug\TelegramApiTester.pdb
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\bin\Debug\TelegramApiTester.exe
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\bin\Debug\TelegramApiTester.pdb
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\bin\Debug\TelegramApiTester.xml
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Debug\TelegramApiTester.frmToken.resources
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Debug\TelegramApiTester.MainForm.resources
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Debug\TelegramApiTester.Resources.resources
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Debug\TelegramApiTester.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\bin\Release\TelegramApiTester.exe.config
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\bin\Release\TelegramApiTester.exe
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\bin\Release\TelegramApiTester.pdb
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\bin\Release\TelegramApiTester.xml
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Release\TelegramApiTester.frmToken.resources
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Release\TelegramApiTester.MainForm.resources
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Release\TelegramApiTester.Resources.resources
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Release\TelegramApiTester.vbproj.GenerateResource.Cache
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Release\TelegramApiTester.exe
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Release\TelegramApiTester.xml
+D:\Desktop\Progetti\TelegramBotApiTester\TelegramApiTester\TelegramApiTester\obj\Release\TelegramApiTester.pdb
